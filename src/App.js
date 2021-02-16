@@ -13,7 +13,8 @@ const TEXTS = [
   "Yo mama",
   "A suh dude",
   "Abdul best Mommy",
-  "want sum Pecc?"
+  "want sum Pecc?",
+  "hehe xd"
 ];
 
 const App = () => {
